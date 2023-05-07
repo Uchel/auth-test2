@@ -1,7 +1,7 @@
 package usecase
 
 import (
-	"github.com/Uchel/auth-test/repository"
+	"github.com/Uchel/auth-test2/repository"
 )
 
 type AdminWhLoginUsecase interface {

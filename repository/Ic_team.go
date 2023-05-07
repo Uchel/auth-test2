@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"log"
 
-	"github.com/Uchel/auth-test/model"
+	"github.com/Uchel/auth-test2/model"
 )
 
 type IcTeamLoginRepo interface {

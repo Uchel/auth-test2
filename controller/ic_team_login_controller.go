@@ -7,8 +7,8 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 
-	"github.com/Uchel/auth-test/model"
-	"github.com/Uchel/auth-test/usecase"
+	"github.com/Uchel/auth-test2/model"
+	"github.com/Uchel/auth-test2/usecase"
 
 	"github.com/gin-gonic/gin"
 )

@@ -1,4 +1,4 @@
-module github.com/Uchel/auth-test
+module github.com/Uchel/auth-test2
 
 go 1.18
 
